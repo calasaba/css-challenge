@@ -1,0 +1,22 @@
+{
+  "name": "css-challenge",
+  "version": "1.0.0",
+  "description": "css-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calasaba/css-challenge.git"
+  },
+  "author": "calasaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calasaba/css-challenge/issues"
+  },
+  "homepage": "https://github.com/calasaba/css-challenge#readme",
+  "devDependencies": {
+    "webpack": "^4.14.0"
+  }
+}
