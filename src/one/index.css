@@ -2,7 +2,7 @@
 * @Author: calasaba
 * @Date:   2018-07-03 09:14:08
 * @Last Modified by:   calasaba
-* @Last Modified time: 2018-07-31 23:43:57
+* @Last Modified time: 2018-07-31 23:49:57
 */
 .bigBox{
     width: 100vw;
@@ -22,9 +22,6 @@
     -ms-border-radius : 10%;
     border-radius : 10%;
 }
-.clear{
-    clear: both;
-    height: 0;
-    line-height: 0;
-    font-size: 0;
+.overflow: {
+    overflow: auto;
 }
