@@ -2,24 +2,25 @@
 * @Author: calasaba
 * @Date:   2018-07-03 09:14:08
 * @Last Modified by:   calasaba
-* @Last Modified time: 2018-07-31 22:04:10
+* @Last Modified time: 2018-07-31 22:57:43
 */
 .bigBox{
-    width: 1000px;
-    margin:auto;
-    border: 1px solid #ccc;
+    width: 100vw;
+    height: 100vh;
+    margin:0 auto;
+    border: 1vh solid #ccc;
 }
 .smallBox{
-    width: 300px;
-    height:300px;
+    width: 30vw;
+    height:30vh;
     background: #ffa600;
     float : left;
-    margin: 15px;
-    -moz-border-radius : 10px;
-    -webkit-border-radius : 10px;
-    -o-border-radius : 10px;
-    -ms-border-radius : 10px;
-    border-radius : 10px;
+    margin: 1vw;
+    -moz-border-radius : 10%;
+    -webkit-border-radius : 10%;
+    -o-border-radius : 10%;
+    -ms-border-radius : 10%;
+    border-radius : 10%;
 }
 .clear{
     clear: both;
